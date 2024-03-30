@@ -5,8 +5,9 @@ The objective of this notebook is to present an extensive exploratory data analy
 
 In this notebook, I am going to explore more about crime in Chicago and try to answer few questions:
 
-* How has crime in Chicago changed across years?
-* Are some types of crimes more likely to happen in specific locations or specific time of the day or specific day of the week than other types of crimes?
+* Has the frequency of crime in Chicago changed over years?
+* where does crime occure the most?
+* Is there any relationship between crime rate and Arrest rate?
 
 ### Data source
 
@@ -25,10 +26,11 @@ In this notebook, I am going to explore more about crime in Chicago and try to a
 
 * Dataset mostly has categorical variables
 * Performed univariate and multivariate Analysis
-* Performed hypothesis test
+
 ### Built With
 
 ```
-plotly==4.4.1
-scipy==1.7.1
+pandas
+seaborn
+matplotlib
 ```
