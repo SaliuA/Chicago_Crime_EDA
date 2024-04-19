@@ -1,4 +1,4 @@
-# Exploraory Data Analysis on the Chicago crime dataset by AltSchool 17 members
+# Exploraory Data Analysis on the Chicago crime
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 The objective of this notebook is to present an extensive exploratory data analysis of crime in Chicago using the **Chicago Crime Dataset**.
